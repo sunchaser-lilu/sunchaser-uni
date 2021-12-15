@@ -1,1 +1,0 @@
-<view data-event-opts="{{[['tap',[['onTap',['$event']]]]]}}" class="waterfall-item data-v-8bc650be" bindtap="__e"><image class="waterfall-image data-v-8bc650be" src="{{params.url}}" mode="widthFix" data-event-opts="{{[['load',[['emitHeight',['$event']]]],['error',[['emitHeight',['$event']]]]]}}" bindload="__e" binderror="__e"></image></view>
