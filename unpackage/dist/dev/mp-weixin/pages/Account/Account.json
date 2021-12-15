@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "sunchaser-waterfall": "/uni_modules/sunchaser-waterfall/components/sunchaser-waterfall/sunchaser-waterfall",
+    "u-tabbar": "/uview-ui/components/u-tabbar/u-tabbar"
+  }
+}

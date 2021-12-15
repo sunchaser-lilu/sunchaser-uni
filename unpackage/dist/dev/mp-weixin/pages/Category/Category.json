@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "壁纸分类",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "sunchaser-category-waterfall": "/uni_modules/sunchaser-category-waterfall/components/sunchaser-category-waterfall/sunchaser-category-waterfall",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore",
+    "u-tabbar": "/uview-ui/components/u-tabbar/u-tabbar"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "sunchaser-waterfall": "/uni_modules/sunchaser-waterfall/components/sunchaser-waterfall/sunchaser-waterfall",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore"
+  }
+}
